@@ -12,3 +12,5 @@
     * Accountability “demonstrável”: documentação que prove o que está sendo feito
     * Se uma empresa usa o LI, ela é responsável pela accountability - o que não ocorre quando se solicita o consentimento, já que neste caso a accountability é responsabilidade do titular
     * Sempre destacar quais são os benefícios para todas as partes interessadas (não apenas os titulares, mas também para as partes internas da organização
+
+
